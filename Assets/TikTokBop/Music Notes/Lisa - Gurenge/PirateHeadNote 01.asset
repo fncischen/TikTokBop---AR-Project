@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c269584b374a2b8479df008b7f588dfb, type: 3}
+  m_Name: PirateHeadNote 01
+  m_EditorClassIdentifier: 
+  musicIcon: {fileID: 6860041955540365159, guid: 6042a94751d714d45ab773e39ee06e9e,
+    type: 3}
+  TimeStamp: 17
+  checkBlendShape: 0
+  checkHeadRotation: 0
+  timeDuration: 0
+  isFaceEffect: 0
+  faceEffectMaterial: {fileID: 0}
+  isPostProcessingEffect: 0
+  postProcessingShader: {fileID: 0}
+  timelineTickerTouched: 0
+  successfullyNodded: 0
