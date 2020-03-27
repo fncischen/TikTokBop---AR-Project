@@ -9,3 +9,6 @@ The game is very simple: as the music begins playing, the timeline scrolls drum 
 
 There are endless applications to these musical AR game mechanics. Games such as Taiko Master already have face emojis for players to beat the drum to, which means there are opportunities to leverage the ARKit Face Tracking Blendshapes to create a range of weights to match the player’s face with each emoji each time the song is playing. 
 
+## Requirements
+
+The Unity project above was built using Unity AR Foundation and Apple ARKit Face Tracking. 
