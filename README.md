@@ -1,7 +1,7 @@
 # TikTokBop---AR-Project
  Where Taiko no Tatsujin: Drum 'n' Fun meets AR Head Bopping 
 
-<img src="https://im3.ezgif.com/tmp/ezgif-3-d3d0ea88fa61.gif"/>
+<img src="https://github.com/fncischen/TikTokBop---AR-Project/blob/master/TikTok%20Bop%20GIF.gif?raw=true"/>
 
 Inspired by how the TikTok / Douyin (抖音) AR Effects team has been using AR Face Tracking as an ad hoc game controller, I decided to create a TikTok AR Effect that combines both: the game mechanics of social music games such as Guitar Hero and Taiko Master (Taiko no Tatsujin); and, the natural head bop motions you see in concerts and raves to create TikTok Bop. 
 
